@@ -1,0 +1,13 @@
+# SSH Keys
+*.pem
+
+# Terraform files
+.terraform/
+*.tfstate
+*.tfstate.backup
+.terraform.tfstate.lock.info
+
+# Python/App files
+__pycache__/
+*.pyc
+.env
